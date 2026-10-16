@@ -1,14 +1,12 @@
 # PSYCHOPY
 
-> jsPsych is a JavaScript framework for creating behavioral experiments that run in a web browser.
+> PsychoPy is an open-source package for creating experiments in behavioral science. It aims to provide a single package that is:
 
-**Category:** PSYCHOLOGY · **Ecosystem:** unknown · **Vendored upstream:** https://github.com/jspsych/jsPsych · **Pinned commit:** `5887b4a50f71fe4b93254754956ea488b0a0c16e` · **Vendor:** Anticloud FZ LLE
-
-> **Note:** this package vendors `https://github.com/jspsych/jsPsych` as the implementation for the `PSYCHOPY` slot. The vendored repository name differs from the package name; the pin above is the exact commit vendored here.
+**Category:** PSYCHOLOGY · **Ecosystem:** unknown · **Vendored upstream:** https://github.com/psychopy/psychopy · **Pinned commit:** `0b90b274f539133b852b2a610cbacad612299438` · **Vendor:** Anticloud FZ LLE
 
 ## What This Project Is
 
-jsPsych is a JavaScript framework for creating behavioral experiments that run in a web browser.
+PsychoPy is an open-source package for creating experiments in behavioral science. It aims to provide a single package that is:
 
 This is the upstream project, vendored at the pinned commit above and packaged offline-first. The 12 improvements Anticloud adds live in `anticloud/` and are described under *Anticloud Overlay* below. Every fact in this file traces to a file in this directory.
 
@@ -62,7 +60,7 @@ The upstream licence is preserved in `LICENSE` and `THIRD_PARTY_LICENSES/`. The 
 SHA3-256 of `BENCH.json`:
 
 ```
-f61b2c011d4e5755b7d962222e583e700634f39fed9a940be1431350474614cb
+66606f6f34960d08032085620de6b58576cfd7e35f74986489fa178ac16099a0
 ```
 
 Recompute the hash above and compare — any drift means the package has been tampered with and the seal is invalid. This is a self-assessment; no external audit has been performed and a SOC 2 / NIST independent audit is committed post-funding.

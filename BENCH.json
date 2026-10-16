@@ -2,13 +2,11 @@
  "schema": "anticloud.tier-bench/1",
  "project": "PSYCHOPY",
  "source": {
-  "repo_path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\PSYCHOLOGY\\PSYCHOPY\\UPSTREAM_CLONE",
   "git": {
-   "head": "5887b4a50f71fe4b93254754956ea488b0a0c16e",
-   "url": "https://github.com/jspsych/jsPsych",
-   "branch": "main",
-   "committed_at": "",
-   "sha_verified_from": "GitHub API substitute swap 2026-10-12 | unified 2026-10-14 (API-exists + content/clone anchor)"
+   "url": "https://github.com/psychopy/psychopy",
+   "head": "0b90b274f539133b852b2a610cbacad612299438",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/jspsych/jsPsych"
   }
  },
  "metrics": {
